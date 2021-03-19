@@ -1,3 +1,3 @@
 const ActionTypes = {
-    SET_USERS: 'app/containers/Home/SET_USERS'
+    SET_USERS: 'app/containers/homepage/SET_USERS'
 }
